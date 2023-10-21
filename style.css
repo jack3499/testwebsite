@@ -8,6 +8,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 750px; /* Set the maximum width to 750px */
+    width: 100%; /* Ensure it doesn't exceed the viewport width */
     height: 100vh;
 }
 
